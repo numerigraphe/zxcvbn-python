@@ -5,7 +5,7 @@ with open('README.rst') as file:
 
 setup(
     name='zxcvbn',
-    version='4.4.27',
+    version='4.4.27fr',
     packages=['zxcvbn'],
     url='https://github.com/dwolfhub/zxcvbn-python',
     download_url='https://github.com/dwolfhub/zxcvbn-python/tarball/v4.4.27',
